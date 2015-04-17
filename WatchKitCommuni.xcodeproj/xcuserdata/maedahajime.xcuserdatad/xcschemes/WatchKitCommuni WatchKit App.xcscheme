@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0630"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42B2A42A1AE10DBD00D81E6C"
+               BuildableName = "WatchKitCommuni WatchKit App.app"
+               BlueprintName = "WatchKitCommuni WatchKit App"
+               ReferencedContainer = "container:WatchKitCommuni.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42B2A4201AE10DBD00D81E6C"
+               BuildableName = "WatchKitCommuni WatchKit Extension.appex"
+               BlueprintName = "WatchKitCommuni WatchKit Extension"
+               ReferencedContainer = "container:WatchKitCommuni.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "42B2A3F71AE10D9F00D81E6C"
+               BuildableName = "WatchKitCommuni.app"
+               BlueprintName = "WatchKitCommuni"
+               ReferencedContainer = "container:WatchKitCommuni.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42B2A42A1AE10DBD00D81E6C"
+            BuildableName = "WatchKitCommuni WatchKit App.app"
+            BlueprintName = "WatchKitCommuni WatchKit App"
+            ReferencedContainer = "container:WatchKitCommuni.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/WatchKitCommuni">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42B2A42A1AE10DBD00D81E6C"
+            BuildableName = "WatchKitCommuni WatchKit App.app"
+            BlueprintName = "WatchKitCommuni WatchKit App"
+            ReferencedContainer = "container:WatchKitCommuni.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42B2A42A1AE10DBD00D81E6C"
+            BuildableName = "WatchKitCommuni WatchKit App.app"
+            BlueprintName = "WatchKitCommuni WatchKit App"
+            ReferencedContainer = "container:WatchKitCommuni.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/WatchKitCommuni">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42B2A42A1AE10DBD00D81E6C"
+            BuildableName = "WatchKitCommuni WatchKit App.app"
+            BlueprintName = "WatchKitCommuni WatchKit App"
+            ReferencedContainer = "container:WatchKitCommuni.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "42B2A42A1AE10DBD00D81E6C"
+            BuildableName = "WatchKitCommuni WatchKit App.app"
+            BlueprintName = "WatchKitCommuni WatchKit App"
+            ReferencedContainer = "container:WatchKitCommuni.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

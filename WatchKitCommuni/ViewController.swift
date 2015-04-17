@@ -8,8 +8,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+// クラスをPersonViewController
+class PersonViewController: UIViewController {
 
+    // personNameラベル
+    @IBOutlet private weak var personName: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -20,6 +24,10 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    // 相撲番付け表示（人）
+    func showPerson(name: String) {
+        personName.text = name
+    }
 
 }
 
